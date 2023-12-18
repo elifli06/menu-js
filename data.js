@@ -1,0 +1,86 @@
+const menu = [
+    {
+        id: 1,
+        title: "👀 leme 🥞",
+        category: "Breakfast vakti ",
+        price: 20.00,
+        img: "/img/gözleme.jpg",
+        desc: "Taze tereyağı ve ince hamurun mükemmel uyumuyla hazırlanan gözleme içine ne isterseniz onu ekleyelim.",
+    },
+
+    {
+        id: 2,
+        title: " Mmmm burger 🍔",
+        category: "lunch yiyelim",
+        price: 30.99,
+        img: "/img/hamburger.jpg",
+        desc: "Taze kırmızı et köftesi, çıtır marullar, domates dilimleri ve turşu ile zenginleştirilmiş, tamamen doğal ve lezzetli bir klasik! Klasik hamburger tutkunları için vazgeçilmez bir seçenek.",
+    },
+    {
+        id: 3,
+        title: 'İçççç kardeşim ☕',
+        category: "Bir şeyler içmeli",
+        price: 16.99,
+        img: "/img/filtre.jpg",
+        desc: "Damakta bıraktığı hafiflik ve doğallığıyla ünlü filtre kahvemiz, özenle seçilmiş çekirdeklerden demlenir. Sizi, kahvenin en saf ve içten haline davet ediyoruz..",
+    },
+    {
+        id: 4,
+        title: "Pat Tat pat 🍟",
+        category: "Breakfast vakti",
+        price: 28.99,
+        img: "img/p.k.jpg",
+        desc:  "İnce dilimlenmiş patatesler, özel bir dokunuşla altın renkte kızartılıyor. Çıtır dışı ve içiyle mükemmel bir lezzet deneyimi.",
+    },
+    {
+        id: 5,
+        title: "Çorba saldırısı 🍲",
+        category: "lunch yiyelim",
+        price: 12.99,
+        img: "img/çorba.webp",
+        desc:"Taze sebzelerin ve özenle seçilmiş malzemelerin buluştuğu, sıcaklığı ve lezzetiyle sofralarınıza samimi bir dokunuş katan ev yapımı taze çorba",
+    },
+
+    {
+        id: 6,
+        title: "Beyin şöleni 🧠🍰 ",
+        category:"lunch yiyelim",
+        price: 38.00,
+        img: "img/ç.p.jpg",
+        desc: "Belçika çikolatası ile hazırlanan bu pasta, her diliminde enfes bir sütlü çikolata lezzeti sunuyor. İnce hamur işçiliği ve yoğun çikolata dolgusuyla, tatlı bir kaçamak için mükemmel bir seçenek. Her ısırık, çikolata tutkunları için bir zevk şöleni vaat ediyor.",
+    },
+    {
+        id: 7,
+        title: "Lezzet şöleni 🍫🍰",
+        category:"lunch yiyelim",
+        price: 38.09,
+        img:"img/san-sebastian.jpeg",
+        desc: "İspanya'nın lezzetli bir armağanı olan San Sebastian pastası, dışı çıtır, içi ise adeta akışkan kıvamda bir vanilyalı dolgu ile muhteşem bir uyum içerisinde.",
+    },
+    {
+        id: 8,
+        title: "Mutluluk sepeti 🍗🌭",
+        category: "Breakfast vakti",
+        price: 22.99,
+        img: "img/sepet.jpg",
+        desc: "Taptaze ve çıtır dış kabuğun içinde sürpriz lezzetler çeşitli toplar, çıtır sepetinizde enfes bir başlangıç.",
+    },
+    {
+        id: 9,
+        title: "İçelim🥤",
+        category: "Bir şeyler içmeli",
+        price: 16.99,
+        img: "img/iç.jpg",
+        desc: "Doğanın taptaze armağanı, her damlasında enerji ve vitamin barındıran taze sıkılmış meyve suyu. Gününüze doğal bir canlılık katın.",
+    },
+    {
+        id: 10,
+        title: "Ete gellll🥩",
+        category: "lunch yiyelim ",
+        price: 92.99,
+        img: "img/et.webp",
+        desc: "%100 dana etinden hazırlanan, mükemmel derecede ızgara edilmiş antrikot steak. Dışı çıtır, içi yumuşak; lezzetin doruklarına çıkın.",
+    },
+];
+
+export default menu
